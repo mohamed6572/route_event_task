@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:route_event_task/ui/productsList/products_List.dart';
-import 'Bloc_Observer.dart';
+import 'ui/constans/Bloc_Observer.dart';
 import 'di/di.dart';
 
 void main() {
