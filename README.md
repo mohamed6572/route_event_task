@@ -2,6 +2,9 @@
 
 This is a Flutter application that displays a list of products using the Dummy JSON API.
 
+## APK Download 
+-[Download APK](https://github.com/mohamed6572/route_event_task/blob/main/Apk-File/app-release.apk)
+
 ## Features
 - Fetches products from a remote API
 - Displays products in a list
