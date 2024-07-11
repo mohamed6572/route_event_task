@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# route_event_task
-=======
-# route_event_task
+# Route Event Task
 
-A new Flutter project.
+This is a Flutter application that displays a list of products using the Dummy JSON API.
+
+## Features
+- Fetches products from a remote API
+- Displays products in a list
+- Clean architecture with MVVM pattern
+- Dependency Injection using get_it and injectable
+- State management using BLoC
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 654a0bc (Initial project)
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/product_list_app.git
+   cd product_list_app
+## Screenshots
+![Product List](screenShots/0.png)
+![Product List](screenShots/1.png)
+![Product List](screenShots/2.png)
