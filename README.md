@@ -20,6 +20,6 @@ This is a Flutter application that displays a list of products using the Dummy J
    git clone https://github.com/yourusername/product_list_app.git
    cd product_list_app
 ## Screenshots
-![Product List](screenShots/1.png)
-![Product List](screenShots/2.png)
-![Product List](screenShots/3.png)
+![Product List](https://github.com/mohamed6572/route_event_task/blob/main/screenShots/1.jpg)
+![Product List](https://github.com/mohamed6572/route_event_task/blob/main/screenShots/2.jpg)
+![Product List](https://github.com/mohamed6572/route_event_task/blob/main/screenShots/3.jpg)
